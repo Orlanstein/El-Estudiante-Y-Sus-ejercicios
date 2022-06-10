@@ -25,9 +25,7 @@ int main(){
         }
     }
 
-    //No quiero pensar porque no me muestra el 2, ya será para otro dia :)
-    cout<<"2 ";
-    for(int i=1; i<cp; i++){
+    for(int i=0; i<cp; i++){
         cout<<num_primos[i]<<" ";
     }
     
